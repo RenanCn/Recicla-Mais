@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Cenas/Jogo/lixoJogo.unity
+  isLoaded: 1
+  isActive: 1
